@@ -21,24 +21,7 @@ Sempre buscando evoluir, aprender novas ferramentas e construir projetos cada ve
 
 ---
 
-## 📊 Estatísticas do GitHub  
 
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
-
-## 🌎 Onde me encontrar
-📫 **Email:** coloque aqui  
-💼 **LinkedIn:** coloque aqui (se tiver)  
-🐙 **GitHub:** https://github.com/SEU_USUARIO
-
----
 
 ### ✨ “A prática supera o talento. O esforço constrói o futuro.”
 
